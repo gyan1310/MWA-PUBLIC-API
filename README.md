@@ -150,4 +150,4 @@ If the requested **Bot ID** is not found or is missing from the request, the API
 ### **Important Notes**
 
 - Replace `bot_12345` with the actual **Bot ID** to retrieve specific data for other bots.
-- The data returned will be specific to the Bot ID provided, and you should ensure the bot exists in the system before making the request.
+- The data returned will be specific to the Bot ID provided.
